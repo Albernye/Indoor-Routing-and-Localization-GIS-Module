@@ -24,7 +24,7 @@ This repository focuses exclusively on **spatial data preparation, GIS processin
 ---
 
 ## Project Structure
-
+```text
 gis_project/
 ├── data/ # Raw and processed GIS data
 │ ├── OBuilding_Floor2.png.points
@@ -55,9 +55,8 @@ gis_project/
 │ └── todo.md
 │
 └── README.md
+```
 
-
----
 
 ## GIS Workflow
 
